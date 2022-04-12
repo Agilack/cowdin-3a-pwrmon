@@ -1,0 +1,8 @@
+# Kicad temporary and backup files
+*.bak
+*-backups
+
+fp-info-cache
+
+# Editor temporary files
+*~
