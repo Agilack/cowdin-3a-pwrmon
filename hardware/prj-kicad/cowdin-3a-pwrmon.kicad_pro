@@ -122,6 +122,7 @@
         0.0,
         0.2032,
         0.3048,
+        0.4064,
         0.7112,
         1.016
       ],
@@ -435,6 +436,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "a5e521b9-814e-4853-a5ac-f158785c6269",
+      "Communication interfaces"
+    ],
+    [
+      "935b7fcb-3605-45ec-96ab-6a8e5dff2648",
+      "Current transformers"
     ]
   ],
   "text_variables": {}
